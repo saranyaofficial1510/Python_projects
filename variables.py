@@ -1,0 +1,10 @@
+a="saranya"
+b="ram"
+c=1
+d=2.5
+e=True
+print(a,b)
+print(b)
+print(c)
+print(d)
+print(e)
